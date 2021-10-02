@@ -7,6 +7,10 @@ src: ./02-myself.md
 ---
 
 ---
+src: ./02-01-agenda.md
+---
+
+---
 src: ./03-legacy.md
 ---
 
@@ -39,6 +43,10 @@ src: ./08-noise-02-before-each.md
 ---
 
 ---
+src: ./08-noise-02-before-each-job-in-queue.md
+---
+
+---
 src: ./08-noise-03-act.md
 ---
 
@@ -55,9 +63,9 @@ src: ./09-wrap-up.md
 ---
 
 ---
-src: ./10-conclusions-reading-again.md
+src: ./11-three-things-to-remember.md
 ---
 
 ---
-src: ./11-three-things-to-remember.md
+src: ./12-quotes.md
 ---

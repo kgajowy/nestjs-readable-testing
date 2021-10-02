@@ -7,13 +7,19 @@ lineNumbers: true
 
 # No-ise - GWT / AAA
 
-AAA - Asset, Act, Assert
-GWT - Given, When, Then
+Both share some principles, including **grouping** code related to particular
+actions, thus make the code more structured.
 
-// few words there
+<br/>
 
-```typescript
+AAA - **Arrange**, **Act**, **Assert**
 
+GWT - **Given**, **When**, **Then**
+<br/><br/>
 
-```
+Many say that AAA does not fit into checking business requirements.
+
+<br/><br/>
+
+## Is this a reason why we cannot describe our module/unit behavior?
 

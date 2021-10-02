@@ -1,7 +1,7 @@
 ---
-theme: seriph 
-class: 'text-left' 
-highlighter: shiki 
+theme: seriph
+class: text-left
+highlighter: shiki
 lineNumbers: true
 ---
 
@@ -13,7 +13,7 @@ afterAll(async () => {/** teardown db */});
 describe('OrganizationsController (e2e)', () => {
     beforeAll(async () => {
         const moduleFixture: TestingModule = await Test.createTestingModule({
-            imports: [AppModule],
+            imports: [FeatureModule],
         }).compile();
 
         app = moduleFixture.createNestApplication();
@@ -25,3 +25,4 @@ describe('OrganizationsController (e2e)', () => {
     });
 });
 ```
+

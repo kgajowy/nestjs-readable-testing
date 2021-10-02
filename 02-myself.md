@@ -3,23 +3,18 @@ theme: seriph
 class: 'text-left'
 highlighter: shiki
 lineNumbers: false
-layout: two-cols
+layout: image-left
+image: ./kgajowy.png
 ---
 
 
-<img src="/img/kgajowy.png" class="m-40 h-40 rounded-1/2 shadow" />
-
-::right::
- 
-<div class="self-center">
-
 # O mnie
-- Kamil Gajowy
+
+Kamil Gajowy
+
 - backend developer
 - boomer 👴🏻
 - boardgames fan
-
-</div>
 
 
 
