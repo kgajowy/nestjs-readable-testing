@@ -1,6 +1,18 @@
 ---
-src: ./01-intro.md
+theme: seriph
+background: './nest-cat.png'
+class: 'text-left'
+highlighter: shiki
+lineNumbers: false
+title: NestJS - How to model readable system tests
+info: |
+    ## Kamil Gajowy
+    ## NestJS - How to model readable system tests
 ---
+
+# Testing
+
+How to model readable system tests
 
 ---
 src: ./02-myself.md
