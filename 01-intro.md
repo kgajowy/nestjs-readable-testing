@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: './img/nest-cat.png'
+background: './nest-cat.png'
 class: 'text-left'
 highlighter: shiki
 lineNumbers: false
