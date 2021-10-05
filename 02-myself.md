@@ -8,7 +8,7 @@ image: ./kgajowy.png
 ---
 
 
-# O mnie
+# About me
 
 Kamil Gajowy
 
